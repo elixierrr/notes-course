@@ -1,4 +1,4 @@
-runtime: python39
+runtime: nodejs20
 handlers:
   - url: /
     static_files: webprofil.html
